@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning python, java, etc.<br>
 - 🤔 I’m looking for help to develop the primitive UI for more flexibility.<br>
 - 🙏 I’d love to collaborate on any project I'm good at.<br>
-- 📦 Find the NPM package module at [npmjs.com/~khoeriilham](https://www.npmjs.com/~khoeriilham) <br>
-- 🗃️ Read the documentation board at [ioeri.vercel.app](https://ioeri.vercel.app) <br>
+- 📦 Find the NPM package module at [![npmjs.com/~khoeriilham](https://img.shields.io/badge/khoeriilham-white?logo=npm&logoColor=red)](https://www.npmjs.com/~khoeriilham) <br>
+- 🗃️ Read the documentation board at [![ioeri.vercel.app](https://img.shields.io/badge/oeri-white.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJhIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0ibTMuOTcsMTEuOTRzLS4wOSwwLS4xMywwYy0uNTUtLjA3LS45My0uNTctLjg2LTEuMTIuMjgtMi4xNywxLjM1LTQuMTcsMy01LjYzLDEuNjYtMS40NywzLjgtMi4yOCw2LjAzLTIuMjgsMi4wMiwwLDMuOTQuNjUsNS41NCwxLjg4LjQ0LjM0LjUyLjk2LjE4LDEuNC0uMzQuNDQtLjk2LjUyLTEuNC4xOC0xLjI1LS45Ni0yLjc0LTEuNDctNC4zMi0xLjQ3LTMuNTUsMC02LjU4LDIuNjUtNy4wNCw2LjE3LS4wNy41LS41Ljg3LS45OS44N1oiLz48cGF0aCBkPSJtMTIsMjEuMWMtMi4wMiwwLTMuOTQtLjY1LTUuNTQtMS44OC0uNDQtLjM0LS41Mi0uOTYtLjE4LTEuNC4zNC0uNDQuOTYtLjUyLDEuNC0uMTgsMS4yNS45NiwyLjc0LDEuNDcsNC4zMiwxLjQ3LDMuNTUsMCw2LjU4LTIuNjUsNy4wNC02LjE3LjA3LS41NS41Ny0uOTMsMS4xMi0uODYuNTUuMDcuOTMuNTcuODYsMS4xMi0uMjgsMi4xNy0xLjM1LDQuMTctMyw1LjYzLTEuNjYsMS40Ny0zLjgsMi4yOC02LjAzLDIuMjhaIi8+PHBhdGggZD0ibTEuNDksMTguOThjLS4zOSwwLS43Ni0uMjMtLjkyLS42Mi0uMjEtLjUxLjAzLTEuMS41NC0xLjMxbDE0Ljk3LTYuMmMuNTEtLjIxLDEuMS4wMywxLjMxLjU0LjIxLjUxLS4wMywxLjEtLjU0LDEuMzFMMS44NywxOC45Yy0uMTMuMDUtLjI1LjA4LS4zOC4wOFoiLz48cGF0aCBkPSJtNy41NSwxMy4yMmMtLjM5LDAtLjc2LS4yMy0uOTItLjYyLS4yMS0uNTEuMDMtMS4xLjU0LTEuMzFsMTQuOTctNi4yYy41MS0uMjEsMS4xLjAzLDEuMzEuNTQuMjEuNTEtLjAzLDEuMS0uNTQsMS4zMWwtMTQuOTcsNi4yYy0uMTMuMDUtLjI1LjA4LS4zOC4wOFoiLz48L3N2Zz4=)](https://ioeri.vercel.app) <br>
 - 💬 Come join the team on the discord channel.<br>
 - ⚡ Strong utility and UI scalability.
 
