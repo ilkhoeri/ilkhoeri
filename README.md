@@ -13,7 +13,6 @@ I’ve built full-stack applications that serve public web users and internal sy
 
 As the creator of <a href="https://oeri.vercel.app/" target="_blank" rel="noopener noreferrer nofollow" style="color: #2f81f7;">Oeri UI</a>, I’ve developed a fully modular component library that prioritizes developer control, accessibility, and flexible design workflows using TailwindCSS.  — Created as a response to the limitations I experienced with rigid UI frameworks.
 
----
 
 ### 🧠 Key Tech:
 React · Next.js · TypeScript · Prisma ORM · Tailwind CSS · PostgreSQL · MySQL · MongoDB · REST APIs · Vercel
