@@ -34,8 +34,4 @@ Full-time or remote-friendly roles — including site design & architecture, doc
 ) [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilkhoeri) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilkhoeri) [![Quora](https://img.shields.io/badge/-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Il-8-1) [![Stack Overflow](https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21085280/ilkhoeri) [![Twitch](https://img.shields.io/badge/-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ilkhoeri) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@il6336) [![X](https://img.shields.io/badge/-12100E.svg?logo=X&logoColor=white)](https://x.com/ilkhoeri) [![TikTok](https://img.shields.io/badge/-12100E.svg?logo=TikTok&logoColor=white)](
 https://tiktok.com/@ilkhoeri) 
 
----
 
-[![](https://visitcount.itsvg.in/api?id=ilkhoeri&icon=6&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
