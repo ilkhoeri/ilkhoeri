@@ -1,4 +1,4 @@
-## @ilkhoeri
+## Hi, I'm ilkhoeri
 > UI Engineer | System Integrator | Frontend & Full-Stack Web Developer | React & Next.js Specialist
 
 <br/>
