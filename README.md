@@ -1,5 +1,5 @@
 ## Hi, I'm ilkhoeri
-> UI Engineer | System Integrator | Frontend & Full-Stack Web Developer | React & Next.js Specialist
+> App Documentary System Integrator | Frontend Engineer | System Integrator
 
 <br/>
 
