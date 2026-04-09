@@ -1,7 +1,5 @@
 ## Hi, I'm ilkhoeri
 
-<h2 color="orange">Hi, I'm ilkhoeri</h2>
-
 > Frontend Engineer | System Integrator | Documentation Engineer  
 
 <br/>
@@ -33,7 +31,8 @@ This includes structuring docs, defining standards, handling versioning, and mak
 
 ### Current Focus  
 
-I’m currently building **Oerilabs** — a monorepo-based system intended to be reusable across multiple products (e.g. client stores, dashboards, internal tools).
+> [!NOTE]
+> I’m currently building **Oerilabs** — a monorepo-based system intended to be reusable across multiple products (e.g. client stores, dashboards, internal tools).
 
 Some areas I’ve been working on:  
 - Internal utility layers (validation, transformation, safeguards)  
