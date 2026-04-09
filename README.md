@@ -31,8 +31,7 @@ This includes structuring docs, defining standards, handling versioning, and mak
 
 ### Current Focus  
 
-> [!NOTE]
-> I’m currently building **Oerilabs** — a monorepo-based system intended to be reusable across multiple products (e.g. client stores, dashboards, internal tools).
+I’m currently building **Oerilabs** — a monorepo-based system intended to be reusable across multiple products (e.g. client stores, dashboards, internal tools).
 
 Some areas I’ve been working on:  
 - Internal utility layers (validation, transformation, safeguards)  
@@ -51,13 +50,8 @@ Still exploring better ways to structure systems that don’t fall apart as they
 ---
 
 
-### 💫 Summary:
-
-As the creator of <a href="https://oeri.vercel.app/" target="_blank" rel="noopener noreferrer nofollow" style="color: #2f81f7;">Oeri UI</a>, I’ve developed a fully modular component library that prioritizes developer control, accessibility, and flexible design workflows.  — Created as a response to the limitations I experienced with rigid UI frameworks.
-
-
 ### 🧠 Key Tech:
-React · Next.js · TypeScript · Prisma ORM · Tailwind CSS · PostgreSQL · MySQL · MongoDB · REST APIs · Vercel
+TypeScript · ORM · Prisma · Tailwind CSS · React · Next.js · PostgreSQL · MySQL · MongoDB · REST APIs · Vercel
 
 ### 🎯 Skills:
 UI/UX Architecture · SSR/SSG Optimization · Component Libraries · Design Systems · API Layer Design · Database Modeling · Docs Writing · Dark Mode by Default™
