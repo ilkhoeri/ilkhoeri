@@ -1,15 +1,58 @@
 ## Hi, I'm ilkhoeri
-> App Documentary System Integrator | Frontend Engineer | System Integrator
+
+<h2 color="orange">Hi, I'm ilkhoeri</h2>
+
+> Frontend Engineer | System Integrator | Documentation Engineer  
 
 <br/>
 
+### Notes  
+I work mostly around TypeScript-based applications, focusing on building systems that are modular, predictable, and maintainable over time.
+
+Most of my work revolves around structuring frontend architecture beyond just UI — thinking in terms of data flow, rendering strategy (SSR/SSG), and how components evolve as the product grows.
+
+I tend to avoid heavy abstractions and prefer building internal utilities when it gives better control over performance and behavior.
+
+---
+
+### What I Usually Work On  
+
+**Frontend Engineering**  
+Building interfaces that are flexible and composable, often starting from low-level primitives rather than relying heavily on external UI libraries.  
+I care quite a bit about how a codebase scales — not just visually, but structurally.
+
+**System Integration**  
+Working across frontend and backend boundaries.  
+I’ve handled setups involving Prisma with multiple databases (MongoDB, MySQL, PostgreSQL), sometimes within a single project — mostly focusing on keeping the data layer consistent and predictable.
+
+**Documentation Engineering**  
+I treat documentation as part of the system, not an afterthought.  
+This includes structuring docs, defining standards, handling versioning, and making sure both developers and users can actually navigate and use it.
+
+---
+
+### Current Focus  
+
+I’m currently building **Oerilabs** — a monorepo-based system intended to be reusable across multiple products (e.g. client stores, dashboards, internal tools).
+
+Some areas I’ve been working on:  
+- Internal utility layers (validation, transformation, safeguards)  
+- Custom UI system (from scratch, minimal dependency)  
+- Structured API layer with encrypted data handling (WIP)  
+- Documentation system designed alongside the product  
+
+The goal is to keep everything composable and production-oriented, not just functional.
+
+---
+
+### Closing  
+
+Still exploring better ways to structure systems that don’t fall apart as they grow.
+
+---
+
+
 ### 💫 Summary:
-
-I specialize in building scalable, design-first web applications with React.js, Next.js, and TypeScript — supported by custom UI systems and optimized SSR/SSG setups.
-
-My technical expertise extends beyond frontend development. I'm also experienced in managing complex backend integrations, especially using Prisma as an ORM layer for multiple databases like MongoDB, MySQL, and PostgreSQL — sometimes simultaneously within a single project.
-
-I’ve built full-stack applications that serve public web users and internal systems, handling API design, model relationships, and data security at scale.
 
 As the creator of <a href="https://oeri.vercel.app/" target="_blank" rel="noopener noreferrer nofollow" style="color: #2f81f7;">Oeri UI</a>, I’ve developed a fully modular component library that prioritizes developer control, accessibility, and flexible design workflows.  — Created as a response to the limitations I experienced with rigid UI frameworks.
 
@@ -19,9 +62,6 @@ React · Next.js · TypeScript · Prisma ORM · Tailwind CSS · PostgreSQL · My
 
 ### 🎯 Skills:
 UI/UX Architecture · SSR/SSG Optimization · Component Libraries · Design Systems · API Layer Design · Database Modeling · Docs Writing · Dark Mode by Default™
-
-### 📄 Available for:
-Full-time or remote-friendly roles — including site design & architecture, documentation-first product teams, open source collaboration, frontend architecture consulting, or full-stack system prototyping.
 
 <br/>
 
